@@ -103,8 +103,8 @@ h2{
     font-family: 'Monsterrat', serif;
     text-decoration: none;
  }
- hr{
-    border: dotted #EAF6F6 6px;
+ .line{
+    border: dotted #66BFBF 6px;
     border-bottom: none;
     width:4%;
     margin:100px auto;
