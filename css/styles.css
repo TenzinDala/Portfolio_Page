@@ -114,4 +114,30 @@ h2{
     bottom:160px;
     left:270px;
  }
+ /* Work html */
+
+ .dice_game{
+    height:auto;
+    width:500px;
+    border:solid 3px #3AB0FF;
+ }
+ .proj_container1{
+    margin-left: 15px;
+    margin-right: 15px;
+    margin-top: 50px;
+    font-size: 16px;
+    font-family: 'Monsterrate', sans-serif;
+ }
+ p{
+    font-family: 'Sacramento',cursive;
+ }
+ .icons_first{
+    margin-top:10px;
+    margin-bottom: 10px;
+ }
+ .icon_code{
+    margin-right: 15px;
+ }
+   
+ 
  
