@@ -150,9 +150,11 @@ h2{
  }
  .icon_git:hover{
     background-color: #11999E;
+    cursor:pointer;
  }
  .icon_code:hover{
     background-color: #11999E;
+    cursor: pointer;
  }
  .dice_heading{
     font-size: 24px;
