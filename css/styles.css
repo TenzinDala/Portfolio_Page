@@ -28,6 +28,14 @@ body{
     color:#66BFBF;
     font-size:30px;
 }
+.intro{
+    margin-top:150px;
+}
+.final{
+    height:auto;
+    width: 900px;
+    margin-top:50px;
+}
 .middle-container{
     text-align: center;
 }
@@ -52,6 +60,13 @@ h3{
 }
 .profile{
     margin:0 auto;
+   
+}
+.person-profile{
+    height: auto;
+    width: 300px;
+    margin-bottom: 50px;
+    margin-top: 50px;
 }
 .icon1{
     float:left;
