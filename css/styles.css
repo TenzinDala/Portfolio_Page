@@ -143,9 +143,10 @@ h2{
     margin-top: 50px;
     font-size: 16px;
     margin-bottom: 105px;
-    font-family: 'Sacramento',cursive;
+    
     padding:35px;
-    background-color: #F9F9F9;
+    background-color: #CDF0EA;
+    border:solid #11999E 3px;
  }
  
  .icons_first{
@@ -182,7 +183,8 @@ h2{
     padding: 35px;
     margin-top: 105px;
     font-size: 16px;
-    font-family: 'Sacramento',cursive;
+    border:solid #11999E 3px;
+
     background-color: #F9F9F9;
  }
  .proj_container3{
@@ -192,8 +194,9 @@ h2{
     margin-top: 105px;
     padding: 35px;
     font-size: 16px;
-    font-family: 'Sacramento',cursive;
     background-color: #CDF0EA;
+    border:solid #11999E 3px;
+
 
  }
  
