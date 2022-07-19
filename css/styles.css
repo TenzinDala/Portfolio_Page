@@ -207,6 +207,19 @@ h2{
     margin-left: 30px;
     font-size: 26px;
  }
+ .pfp_img{
+    height:auto;
+    width:50%;
+ }
+ .image_aboutMe
+ {
+    background-color: #FEFBF6;
+ }
+ .img_des{
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+ }
  
    
  
