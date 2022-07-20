@@ -209,17 +209,35 @@ h2{
  }
  .pfp_img{
     height:auto;
-    width:50%;
+    width:400px;
+ }
+ .para_AboutMe
+ {
+    margin-top: 50px;
+    font-size: 16px;
+ }
+ .description_aboutMe
+ {
+    background-color: #F6F6F6;
+    padding: 90px;
+    border-radius: 13px;
+    font-family: 'Sacramento',cursive;
+    font-size: 10px;
  }
  .image_aboutMe
  {
-    background-color: #FEFBF6;
+    background-color: #F6F6F6;
+    padding: 5px;
+    border-radius: 13px;
  }
- .img_des{
+.img_des{
     display: flex;
-    padding: 30px;
-    justify-content: space-between;
- }
+    margin:120px;
+    gap:15px;
+}
+.heading2_aboutme{
+    color:darkgray;
+}
  
    
  
